@@ -1,7 +1,7 @@
 
 # for-in
 
-  Iterate an object
+  Iterates an object
 
 ## Installation
 
