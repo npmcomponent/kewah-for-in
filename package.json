@@ -1,0 +1,12 @@
+{
+  "name": "kewah-for-in",
+  "description": "Iterate an object",
+  "version": "0.0.1",
+  "keywords": [
+    "forIn",
+    "object",
+    "iterator"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
